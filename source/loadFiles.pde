@@ -1,3 +1,4 @@
+// Copyright [2021] <Dany Rashwan>
 import processing.sound.*;
 import processing.video.*;
 PImage gator, gnv, gatorMasked, field, menu;
