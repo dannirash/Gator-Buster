@@ -1,3 +1,4 @@
+// Copyright [2021] <Dany Rashwan>
 boolean isSelected, isHelp, isMenu;
 int m = 0, l, lineX, lineY = 520;
 void menu() {
