@@ -1,3 +1,4 @@
+// Copyright [2021] <Dany Rashwan>
 float acc = 0.1;
 void keyPressed() {
   //if user presses spacebar check for pointer location and decides whether player busted the gator without a mask or not
