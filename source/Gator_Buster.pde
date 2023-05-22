@@ -1,4 +1,5 @@
-//Dany_Rashwan
+// Copyright [2021] <Dany Rashwan>
+
 Player player;
 int n = 2;
 int sizeX = 1360, sizeY = 840;
