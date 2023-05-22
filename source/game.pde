@@ -1,3 +1,4 @@
+// Copyright [2021] <Dany Rashwan>
 float gatorLoc, xGatorLoc, yGatorLoc, 
   loc, xLoc, yLoc, x, t;
 int xT;
